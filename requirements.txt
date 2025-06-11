@@ -7,3 +7,5 @@ opencv-python
 Pillow
 pycocotools
 python-telegram-bot
+gradio
+huggingface_hub
