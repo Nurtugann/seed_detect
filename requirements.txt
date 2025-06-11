@@ -1,2 +1,9 @@
 segment-anything
-nest_asyncio
+nest-asyncio
+numpy
+torch
+torchvision
+opencv-python
+Pillow
+pycocotools
+python-telegram-bot
