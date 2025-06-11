@@ -1,1 +1,2 @@
 segment-anything
+nest_asyncio
